@@ -1,0 +1,3 @@
+/home/yale/workspace/2kcf-tracker-master-/build/src/CMakeFiles/kcftracker.dir
+/home/yale/workspace/2kcf-tracker-master-/build/samples/CMakeFiles/runtracker.bin.dir
+/home/yale/workspace/2kcf-tracker-master-/build/samples/CMakeFiles/runvideo.bin.dir

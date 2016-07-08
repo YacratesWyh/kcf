@@ -1,0 +1,2 @@
+/usr/bin/ar cr libkcftracker.a  CMakeFiles/kcftracker.dir/kcftracker.cpp.o CMakeFiles/kcftracker.dir/fhog.cpp.o
+/usr/bin/ranlib libkcftracker.a
